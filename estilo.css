@@ -1,0 +1,55 @@
+body {
+    background: rgb(109, 109, 241);
+    font: normal 15pt Arial;
+    text-align: center;
+    font-weight: bold;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0);
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#foto {
+    width: 200px;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#ver {
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: rgba(72, 72, 250, 0.836);
+}
+
+#ver:hover {
+    background-color: white;
+    color: black;
+}
+
+#txtano {
+    text-align: center;
+    width: 200px;
+    height: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
